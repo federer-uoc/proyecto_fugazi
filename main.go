@@ -1,4 +1,4 @@
-// federer
+// federer@uoc.edu
 package main
 
 import (
