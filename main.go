@@ -1,4 +1,4 @@
-// federer@uoc.edu
+// federer@uoc.edu ok
 package main
 
 import (
